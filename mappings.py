@@ -99,3 +99,75 @@ etatp_map = {
     '2': 'Accompanied',
     '3': 'In a group'
 }
+
+
+# Places.csv
+
+catr_map = {
+    '1': 'Highway',
+    '2': 'National Road',
+    '3': 'Departmental Road',
+    '4': 'Communal Way',
+    '5': 'Off public network',
+    '6': 'Parking lot open to public traffic',
+    '9': 'other'
+}
+
+circ_map = {
+    '1': 'One way',
+    '2': 'Bidirectional',
+    '3': 'Separated carriageways',
+    '4': 'With variable assignment channels'
+}
+
+
+vosp_map = {
+    '1': 'Bike path',
+    '2': 'Cycle Bank',
+    '3': 'Reserved channel'
+}
+
+prof_map = {
+    '1': 'Dish',
+    '2': 'Slope',
+    '3': 'Hilltop',
+    '4': 'Hill bottom'
+}
+
+plan_map = {
+    '1': 'Straight part',
+    '2': 'Curved on the left',
+    '3': 'Curved right',
+    '4': 'In "S"'
+}
+
+
+surf_map = {
+    '1': 'normal',
+    '2': 'wet',
+    '3': 'puddles',
+    '4': 'flooded',
+    '5': 'snow',
+    '6': 'mud',
+    '7': 'icy',
+    '8': 'fat - oil',
+    '9': 'other'
+}
+
+infra_map = {
+    '1': 'Underground - tunnel',
+    '2': 'Bridge - autopont',
+    '3': 'Exchanger or connection brace',
+    '4': 'Railway',
+    '5': 'Carrefour arranged',
+    '6': 'Pedestrian area',
+    '7': 'Toll zone'
+}
+
+situ_map = {
+    '1': 'On the road',
+    '2': 'On emergency stop band',
+    '3': 'On the verge',
+    '4': 'On the sidewalk',
+    '5': 'On bike path'
+}
